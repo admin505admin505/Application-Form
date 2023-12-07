@@ -6,3 +6,11 @@ main{
 body{
   background:grey;
 }
+
+.box{
+  width:500px;
+  hight:500px;
+  padding:10%;
+  border:1px solid black;
+  margin:10%;
+}

@@ -4,13 +4,22 @@ main{
 }
 
 body{
-  background:grey;
+  background:black;
 }
 
 .box{
   width:500px;
-  hight:500px;
+  hight:100px;
   padding:10%;
   border:1px solid black;
   margin:10%;
+}
+
+h1{
+  text-align:center;
+  color:lime;
+}
+
+header{
+  color:lime;
 }
